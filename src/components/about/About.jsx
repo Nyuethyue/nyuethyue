@@ -22,6 +22,22 @@ const About = () => {
                             <span className="about__info-title">+07</span>
                             <span className="about__info-name">Years <br /> experience</span>
                         </div>
+
+                        <div>
+                            <span className="about__info-title">20+</span>
+                            <span className="about__info-name">Completed <br /> Project</span>
+                        </div>
+
+                        <div>
+                            <span className="about__info-title">+05</span>
+                            <span className="about__info-name">Companies <br /> Worked</span>
+                        </div>
+                    </div>
+
+                    <div className="about__button">
+                        <a download="" href="assets/pdf/Alexa-Cv.pdf" className="button button--flex">
+                            Download CV <i class="uil uil-download-alt button__icon"></i>
+                        </a>
                     </div>
                 </div>
             </div>
